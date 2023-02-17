@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="uno">
+        <div id="dos">
+            <p id="tres">
+                Habia una vez un chico que le dieron una caja misteriosa, pero se la dieron con la condicion de que no
+                podia abrirla.
+                El chico acepto esta caja pero intrigado y lleno de curiosidad de lo que habia dentro de ella, puso la
+                caja debajo de su cama
+                Y cada dia le daba aun mas y mas intriga de lo que habia, hasta que un dia empezo a despesperarse tanto
+                por esta caja que empezo a escuchar voces
+                viniendo de debajo de la cama, no pudo resistirse mas a esta intriga que lo mataba por dentro, hasta que
+                decidio abrirla y se sorprendio al darse cuenta
+                que no habia nada, solo un papel que decia "La clave del exito es saber controlar la codicia", a lo que
+                el chico quedo pensativo.
+            </p>
+
+            <ul id="Lista">
+                <li id="Primero" class="item">item 1</li>
+                <li class="item">item 2</li>
+                <li class="item">item 3</li>
+            </ul>
+            <p id="cuatro">
+
+            </p>
+        </div>
+        <ul id="lista2">
+
+        </ul>
+    </div>
+
+    <script src="js/dom.js"></script>
+</body>
+
+</html>
